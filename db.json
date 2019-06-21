@@ -1,4 +1,11 @@
-{"courses" :[
-    {"id":1,"courseName":"React","coursePrice":12,"courseDuration":3}   
-  ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
