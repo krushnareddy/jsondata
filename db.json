@@ -1,9 +1,4 @@
 {"courses" :[
-    {id:1,courseName:'React',coursePrice:true,courseDuration:'3'},
-    {id:2,courseName:'Java',coursePrice:false,courseDuration:'3'},
-    {id:3,courseName:'PHP',coursePrice:false,courseDuration:'3'},
-    {id:4,courseName:'.Net',coursePrice:false,courseDuration:'3'},
-    {id:5,courseName:'Javascript',coursePrice:true,courseDuration:'3'}
-    
+    {"id":1,"courseName":'React',"coursePrice":12,"courseDuration":'3'}   
   ]
 }
