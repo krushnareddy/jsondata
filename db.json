@@ -1,4 +1,4 @@
-{courses :[
+{"courses" :[
     {id:1,courseName:'React',coursePrice:true,courseDuration:'3'},
     {id:2,courseName:'Java',coursePrice:false,courseDuration:'3'},
     {id:3,courseName:'PHP',coursePrice:false,courseDuration:'3'},
